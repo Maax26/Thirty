@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Thirty</string>
+    <string name="dice_one">Dice number one</string>
+    <string name="dice_two">Dice number two</string>
+    <string name="dice_three">Dice number three</string>
+    <string name="dice_four">Dice number four</string>
+    <string name="dice_five">Dice number five</string>
+    <string name="dice_six">Dice number six</string>
+    <string name="button_roll">Roll the dice</string>
+    <string name="button_score">Score</string>
+    <string name="button_next">Next Round</string>
+    <string name="text_roll_one">First roll.\nSelect the dice you want to save.</string>
+    <string name="text_roll_two">Second roll.\nSelect the dice you want to save.</string>
+    <string name="text_roll_three">Third roll.\nSelect the dice you want to register and click Score.</string>
+    <string name="toast_successful">Score registered</string>
+    <string name="text_result">Result</string>
+</resources>
